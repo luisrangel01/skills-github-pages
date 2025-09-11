@@ -1,7 +1,3 @@
----
-title: "Welcome to My Homepage"
----
-
 # 👋 Hi, I’m Luis Rangel
 
 Welcome to my personal homepage! This is where I share what I’m working on, my interests, and ways to connect with me.  
